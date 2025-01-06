@@ -1,0 +1,5 @@
+Piotr Robak, Mikołaj Roguski
+https://github.com/Peter-worm/SNARS-competition
+D1-K=2.csv, 4.33 ms
+D2-K=7.csv, 5.26 ms
+D3-K=12.csv, 11 ms
