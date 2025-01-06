@@ -3,6 +3,6 @@ https://github.com/Peter-worm/SNARS-competition
 D1-K=2.csv, 4.33 ms
 D2-K=7.csv, 5.26 ms
 D3-K=12.csv, 11 ms
-D1-UNK.csv 138 μs ± 65.3 μs per loop (mean ± std. dev. of 7 runs, 1 loop each)
-D2-UNK.csv 172 μs ± 3.09 μs per loop (mean ± std. dev. of 7 runs, 10,000 loops each)
-D3-UNK.csv 54.8 μs ± 1.36 μs per loop (mean ± std. dev. of 7 runs, 10,000 loops each)
+D1-UNK.csv, 138 μs ± 65.3 μs per loop (mean ± std. dev. of 7 runs, 1 loop each)
+D2-UNK.csv, 172 μs ± 3.09 μs per loop (mean ± std. dev. of 7 runs, 10,000 loops each)
+D3-UNK.csv, 54.8 μs ± 1.36 μs per loop (mean ± std. dev. of 7 runs, 10,000 loops each)

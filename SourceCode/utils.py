@@ -50,6 +50,7 @@ def create_reduced_graph(original_graph, partition):
 
     return reduced_graph, inter_community_edges, community_nodes
 
+# generated with gpt
 # Example usage:
 def draw_reduced(g, partition):
     # Generate the reduced graph
@@ -87,6 +88,6 @@ def map_from_1(partition):
         if val not in community_map:
             community_map[val] = len(community_map) + 1
         if index + 1 not in mapping:
-            mapping[index + 1] = f"number_of_cluster_containing_{community_map[val]}"
+            mapping[index + 1] = community_map[val]
     return mapping
     
