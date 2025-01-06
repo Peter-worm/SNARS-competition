@@ -2,7 +2,7 @@ from collections import defaultdict
 import networkx as nx
 import matplotlib.pyplot as plt
 
-
+##generated with chat gpt
 def create_reduced_graph(original_graph, partition):
     # Initialize the reduced graph
     reduced_graph = nx.Graph()
